@@ -1,6 +1,12 @@
 # MediaPipe_Hand-Tracking_Computer-Interaction
 Source code that uses the Media Pipe library to interact with your computer with real-time streaming images through finger gestures.  
-Media Pipe 라이브러리를 사용하여 손가락 제스처를 통해 실시간 스트리밍 이미지로 컴퓨터와 상호 작용하는 소스 코드입니다.
+After uploading a .FBX file using a [sketchfab web page](https://sketchfab.com/feed) using OpenGL, we implemented a three-dimensional virtual space.  
+A software that detects specific hand gestures in a real-time image stream and interacts with three-dimensional objects using real-time rendering techniques.  
+Media Pipe 라이브러리를 사용하여 손가락 제스처를 통해 실시간 스트리밍 이미지로 컴퓨터와 상호 작용하는 소스 코드입니다.  
+OpenGL를 사용하는 [sketchfab 웹 페이지](https://sketchfab.com/feed)를 이용해 .FBX 파일을 업로드 한 후 3차원 가상공간을 구현하였습니다.
+실시간 영상 스트림에서 특정 핸드 제스처를 검출하여 실시간 렌더링 기법을 이용한 3차원 객체를 상호 작용하는 소프트웨어입니다.  
+
+
 
 
 # Getting Started
