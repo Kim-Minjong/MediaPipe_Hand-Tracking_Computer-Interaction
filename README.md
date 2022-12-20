@@ -28,7 +28,7 @@ Media Pipe 라이브러리를 사용하여 손가락 제스처를 통해 실시�
 
 5. After that, the interpreter is set.  
 그 이후 인터프리터를 설정한다.  
-[File] - [Setting] - [Python Interpreter] - [Add Interpreter] - [Add Local Interpreter] - [Virtualenv Environment] - [OK] - [OK]  
+[File] - [Setting] - [Project:MediaPipe...] - [Python Interpreter] - [Add Interpreter] - [Add Local Interpreter] - [Virtualenv Environment] - [OK] - [OK]  
 
 
 <img src="https://user-images.githubusercontent.com/62827269/208565717-d5d7ee78-eeb3-4f3d-8610-c13b90008448.png" width="70%" height="70%"/>
